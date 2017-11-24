@@ -23,6 +23,10 @@ h2 {
     max-width: 100px;
 }
 
+.row img:hover {
+    box-shadow: 5px 5px 10px gray;
+}
+
 @media screen and (max-width: 450px) {
     h1,h2 {
         font-size: 2em;
